@@ -1,0 +1,11 @@
+WatchId,WatchBrand,WatchStyle,WatchDisplay,Stock,CostPrice,SellingPrice
+1,Casio,Casual,Analogue,25,700,950
+2,Fastrack,Sport,Digital,10,1000,1500
+3,Sonata,Fashion,Analogue-Digital,12,900,1200
+4,Timex,Luxury,Analogue-Digital,15,1000,1800
+5,Fossil,Sport,Digital,4,700,1000
+6,Titan,Fashion,Analogue,1,500,800
+7,Killer,Wedding,Analogue,34,12000,14000
+8,Maxima,Casual,Digital,22,1200,1750
+9,D1 Milano,Luxury,Analogue,16,7000,8000
+10,Redux,Wedding,Analogue,3,10000,15000
